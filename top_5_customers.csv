@@ -1,0 +1,6 @@
+customer_id,customer_name,city,region,total_spend,total_orders
+101,Ravi,Hyderabad,South,7000,3
+103,Priya,Bangalore,South,4900,2
+108,Rahul,Mumbai,West,4500,1
+104,Arjun,Hyderabad,South,4000,1
+107,Divya,Bangalore,South,3500,1
